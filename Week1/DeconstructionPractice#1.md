@@ -26,7 +26,7 @@ Physical Parts:
 
 | Data | Render | Simulation | Event |
 | ---- | ------ | ---------- | ----- |
-| Location of flowers | | | |
-| When flowers bloom |  | | Flowers bloom |
+| Location of flowers | Where flower grow | | |
+| When flowers bloom | Flowering duration | Flower growing | Flowers bloom |
 | Person position | | | Flowers near the person start dying |
 | When flowers die | | | Flowers die |
