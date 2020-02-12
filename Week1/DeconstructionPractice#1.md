@@ -15,10 +15,18 @@ Future Park is a space for collaborative creation, or “co-creation,” where p
 The "Lost, Immersed and Reborn" is the first part of the show. Audiences standing in a room full of flowers that projected on the ground and the wall. Flowers blossom according to the changing seasons, and the place where they grow gradually move. Also, if the audience standing still, the flowers will grow faster. But if the audience move a lot, flowers will shed their petals, wither, and die all at once.
 
 ## Deconstruction
+
+Physical Parts:
+1. Projectors
+2. Senor
+3. Computer that connect to the projectors and run the program
+
+
+
+
 | Data | Render | Simulation | Event |
 | ---- | ------ | ---------- | ----- |
-|1 | | |
-|1 | | |
-|1 | | |
-|1 | | |
-|1 | | |
+| Location of flowers | | | |
+| When flowers bloom |  | | Flowers bloom |
+| Person position | | | Flowers near the person start dying |
+| When flowers die | | | Flowers die |
