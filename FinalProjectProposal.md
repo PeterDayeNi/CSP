@@ -4,10 +4,16 @@
 
 For my final project, I am going to build a website and put my last semester interaction project. In my previous project, I was trying to use YOLO to detecte the face and put it on the black and white photo, so the viewer could be the part of the show.
 
+For my final project this semester, I am going to upgrade my program to make it fulfill my original thought. 
+
 ## Physical Parts
-None
+Basic on Website.
 
 ## Deconstruction
+
+1. Exhibition Part
+
+
 
 ## Difficulty
 1.Sometimes cannot precisely detecte the face.
