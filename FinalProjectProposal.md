@@ -11,6 +11,7 @@ None
 
 ## Difficulty
 1.Sometimes cannot precisely detecte the face.
+
 2.Lighting and contrast after putting the face on the black and white photo 
 
 ## Timeline
